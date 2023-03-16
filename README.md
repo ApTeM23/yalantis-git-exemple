@@ -1,4 +1,4 @@
-# yalantis-git-exemple
+# yalantis-git-school
 This is my first git repositary
 
 
